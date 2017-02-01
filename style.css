@@ -1,0 +1,107 @@
+body{
+  background-color: #e6e6e6
+}
+
+h1{
+  color: black;
+  font-size: 30px;
+  font-family: arial
+  text-align: center;
+
+}
+h2{
+  color: black;
+}
+h1,
+h2,
+h3{
+  font-family: arial;
+}
+h4,
+h5{
+  font-family: Vivaldi Script
+}
+h4{
+  line-height: 1px
+}
+.social_list{
+  list-style: none;
+}
+.social_list > li{
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 100px;
+
+}
+.handlung{
+  line-height: 15px;
+}
+.table_movies{
+
+  line-height: 15px;
+}
+.each{
+  background-color: #cccccc;
+  text-align: center;
+  border-radius: 5px;
+  border: 2px solid #737373;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 20px;
+  width: 400px;
+  height: 550px;
+}
+.links{
+  background-color: #cccccc;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+border: 2px solid #737373;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 20px;
+  width: 400px;
+  height: 100px;
+
+}
+.container{
+  border: 2px solid black;
+}
+#movies{
+  background-color: #cccccc;
+
+  border-radius: 5px;
+  border: 2px solid #737373;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 20px;
+  width: 400px;
+
+}
+.about-this-page{
+  background-color: #cccccc;
+  border-radius: 5px;
+  border: 2px solid #737373;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 20px;
+  width: 400px;
+}
+
+
+p{
+  font-family: Vivaldi Script
+  font-size: 12px;
+}
+
